@@ -1,4 +1,4 @@
-<img src="images/svg/header_en.svg"></img>
+<img src="IMAGES/SVG/header_en.svg"></img>
 
 <table align="right">
 <table align="right">
